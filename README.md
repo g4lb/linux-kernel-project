@@ -10,6 +10,7 @@ How it works:
 Android View:
 
 ![My image](http://i68.tinypic.com/1oanvl.png)
+![My image](http://i64.tinypic.com/ixboeq.png)
 
 
 
