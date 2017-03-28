@@ -3,6 +3,8 @@ Android Device and Linux Kernel Project
 
 # Preview
 
+Check out the overview video: https://youtu.be/A4mTL0k9Huc
+
 How it works:
 
 ![My image](http://i65.tinypic.com/5njac9.png)
