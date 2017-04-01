@@ -1,0 +1,5 @@
+1.run build.sh as superUser*.
+2.run the netlinkUser (exe file).
+3.send get request from the mobile app.
+
+*= without superuser the script can't insert the modules.
