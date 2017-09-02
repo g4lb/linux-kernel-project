@@ -18,7 +18,7 @@ VMware View:
 
 ![My image](http://i64.tinypic.com/wa1zxz.png)
 
-Short video:
+Short video: 
 ![My image](https://media.giphy.com/media/UL3gUedUxW7uw/giphy.gif)
 
 
