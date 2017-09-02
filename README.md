@@ -14,12 +14,12 @@ Android View:
 ![My image](http://i68.tinypic.com/1oanvl.png)
 ![My image](http://i64.tinypic.com/ixboeq.png)
 
-VMware View:
+VMware View:  
 
-![My image](http://i64.tinypic.com/wa1zxz.png)
+![My image](http://i64.tinypic.com/wa1zxz.png)   
 
 Short video: 
-![My image](https://media.giphy.com/media/UL3gUedUxW7uw/giphy.gif)
+![My image](https://media.giphy.com/media/UL3gUedUxW7uw/giphy.gif)   
 
-
+   
 
